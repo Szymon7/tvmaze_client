@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Szymon7/http_client"
+    }
+  ],
+  "require": {
+    "szymon7/http_client": "dev-master"
+  }
+}
